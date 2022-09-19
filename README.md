@@ -12,7 +12,7 @@
 
 <details>
     <summary><b>About Me</b></summary><br/>
-    I am a lifelong learner of the tech industry with an intense appetite for fresh and relevant data. I am currently working on <b>Automatic extraction of information on plant species from digitized floras</b> and <b>Intelligent Art Critic</b>, where I am leveraging my skills in Data Engineering, Machine Learning, and Natural Language Processing (NLP) to build functioning systems via the CRISP-DM process model, from the business understanding phase to deployment.
+    I am a lifelong learner of the tech industry with an intense appetite for fresh and relevant data. I am currently working on <b>Automatic extraction of information on plant species from digitized floras</b>, where I am leveraging my skills in Data Engineering, Machine Learning, and Natural Language Processing (NLP) to build functioning systems via the CRISP-DM process model, from the business understanding step to deployment.
 </details>
 <details>
     <summary><b>Languages & Tools</b></summary><br/>
