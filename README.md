@@ -28,5 +28,6 @@
 </div>
 </details>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nainiayoub&show_icons=true)
 
 
