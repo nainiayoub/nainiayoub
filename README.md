@@ -12,7 +12,9 @@
 
 <details>
     <summary><b>About Me</b></summary><br/>
-    I am a lifelong learner of the tech industry with an intense appetite for fresh and relevant data. I am currently working on <b>Automatic extraction of information on plant species from digitized floras</b>, where I am leveraging my skills in Data Engineering, Machine Learning, and Natural Language Processing (NLP) to build functioning systems via the CRISP-DM process model, from the business understanding step to deployment.
+    • Lifelong learner of the tech industry with a large appetite for fresh and relevant data.<br/>
+    • Currently working on automatic extraction of information on plant species from digitized floras.<br/>
+    • I leverage data and models to solve domain-specific problems.<br/>
 </details>
 <details>
     <summary><b>Languages & Tools</b></summary><br/>
