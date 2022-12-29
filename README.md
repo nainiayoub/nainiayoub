@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/ayoub-nainia/?locale=en_US">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt=""/>
 <a/>
-<a href="https://twitter.com/nainia_ayoub">
-<img src="https://img.shields.io/badge/-Twitter-red?style=flat&logo=Twitter&logoColor=white" alt=""/>
-</a> 
+
 </div>
 <br/>
 
@@ -30,6 +28,6 @@
 </div>
 </details>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nainiayoub&show_icons=true)
+
 
 
