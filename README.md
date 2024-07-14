@@ -15,9 +15,16 @@
 
 <details>
     <summary><b>About Me</b></summary><br/>
-    • Lifelong learner of the tech industry with a large appetite for fresh and relevant data.<br/>
-    • Currently working on automatic extraction of information on plant species from digitized floras.<br/>
+    • Lifelong learner with a large appetite for fresh and relevant data.<br/>
+    • PhD candidate working on developing methods for structured information extraction.<br/>
     • I leverage data and models to solve domain-specific problems.<br/>
+</details>
+<details>
+    <summary><b>Projects</b></summary><br/>
+    • <a href="https://testit.uni.lu/exhibit/intelligent-critique/">Intelligent Art Critique</a><br/>
+    • <a href="https://scholar-paper-extractor.streamlit.app/">Scholar Scrap</a><br/>
+    • <a href="https://nainiayoub-pdf-text-data-extractor-app-p6hy0z.streamlit.app/">PDF to Text</a><br/>
+    • <a href="https://nainiayoub.github.io/nlp-arabic-glossary/">NLP Arabic Glossary</a><br/>
 </details>
 <details>
     <summary><b>Languages & Tools</b></summary><br/>
@@ -36,5 +43,5 @@
 </details>
 
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=nainiayoub&show_icons=true&theme=transparent)
+
 
