@@ -21,10 +21,10 @@
 </details>
 <details>
     <summary><b>Projects</b></summary><br/>
-    • <a href="https://testit.uni.lu/exhibit/intelligent-critique/">Intelligent Art Critique</a><br/>
-    • <a href="https://scholar-paper-extractor.streamlit.app/">Scholar Scrap</a><br/>
-    • <a href="https://nainiayoub-pdf-text-data-extractor-app-p6hy0z.streamlit.app/">PDF to Text</a><br/>
-    • <a href="https://nainiayoub.github.io/nlp-arabic-glossary/">NLP Arabic Glossary</a><br/>
+    • <a href="https://testit.uni.lu/exhibit/intelligent-critique/" target="_blank">Intelligent Art Critique</a><br/>
+    • <a href="https://scholar-paper-extractor.streamlit.app/" target="_blank">Scholar Scrap</a><br/>
+    • <a href="https://nainiayoub-pdf-text-data-extractor-app-p6hy0z.streamlit.app/" target="_blank">PDF to Text</a><br/>
+    • <a href="https://nainiayoub.github.io/nlp-arabic-glossary/" target="_blank">NLP Arabic Glossary</a><br/>
 </details>
 <details>
     <summary><b>Languages & Tools</b></summary><br/>
