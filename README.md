@@ -1,11 +1,19 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nainiayoub&style=flat-square&color=blue" alt=""/>
+
+<a href="https://scholar.google.com/citations?user=_lR9ijMAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+</a>
+<a href="https://medium.com/@nainia_ayoub" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+</a> 
 <a href="https://www.linkedin.com/in/ayoub-nainia/?locale=en_US">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt=""/>
 <a/>
-<a href="https://twitter.com/nainia_ayoub">
-<img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt=""/>
-<a/>
+<a href="https://twitter.com/nainia_ayoub" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
 
 
 
